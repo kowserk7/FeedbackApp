@@ -9,6 +9,6 @@ app.get('/', (req, res) => {
 })
 
 
-//https://pacific-springs-10248.herokuapp.com/ | https://git.heroku.com/pacific-springs-10248.git
-
 app.listen(PORT, () => console.log(`Listening on ${PORT}`));
+
+
