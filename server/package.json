@@ -8,7 +8,7 @@
     "npm": "6.8.0"
   },
   "scripts": {
-    "start": "node start.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -20,3 +20,5 @@
     "babel-register": "^6.26.0"
   }
 }
+
+
